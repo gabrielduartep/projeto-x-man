@@ -1,6 +1,6 @@
 # X-Men Character Selector
 <div align="center">
-  <img alt="Logo" src="src/imagens/logo-x-men.png" width="150" />
+  <img alt="Logo" src="src/imagens/logo.svg" width="150" />
 </div>
 
 ## Desing: 
