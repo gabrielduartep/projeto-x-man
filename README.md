@@ -1,4 +1,11 @@
 # X-Men Character Selector
+<div align="center">
+  <img alt="Logo" src="src/imagens/logo-x-men.png" width="150" />
+</div>
+
+## Desing: 
+* 
+<p align="center"><img height="400em" src="./src/imagens/projeto-x-men-web.png" alt="Projeto X-men"><p>
 
 ## Descrição
 <div align="center">
